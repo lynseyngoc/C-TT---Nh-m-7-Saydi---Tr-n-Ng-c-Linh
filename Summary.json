@@ -1,0 +1,21 @@
+{
+  "platform": "facebook",
+  "crawl_date": "2026-08-19",
+  "keywords": [
+    "hỏi nhanh đáp nhanh",
+    "giải đáp thắc mắc"
+  ],
+  "batch_count": 4,
+  "audio_spec": {
+    "sample_rate": 16000,
+    "channels": 1,
+    "format": "wav_pcm_s16le"
+  },
+  "items_delivered": 1250,
+  "unique_item_ids": 1178,
+  "total_hours": 82.4,
+  "error_count": 72,
+  "rejected_count": 135,
+  "duplicate_count": 72,
+  "retry_count": 34
+}
