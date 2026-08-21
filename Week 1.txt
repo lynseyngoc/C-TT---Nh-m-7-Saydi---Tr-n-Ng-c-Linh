@@ -1,0 +1,23 @@
+Trong đó:
+
+raw/: video/audio tải xuống ban đầu.
+audio/: WAV cuối cùng đạt chuẩn.
+failed/: URL hoặc ID tải lỗi để retry.
+metadata.json: metadata của từng audio.
+summary.json: thống kê batch.
+
+Week1/
+└── 2026-08-19/
+    ├── audio/
+    ├── raw/
+    ├── failed/
+    ├── metadata.json
+    └── summary.json
+    
+Week1/
+└── 2026-08-19/
+    ├── batch_01/
+    ├── batch_02/
+    ├── batch_03/
+    ├── metadata.json
+    └── summary.json
